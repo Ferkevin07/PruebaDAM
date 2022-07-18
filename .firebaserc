@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "project-bim1": {
+      "hosting": {
+        "app": [
+          "project-bim1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "project-bim1"
+  }
+}
